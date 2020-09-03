@@ -8,6 +8,9 @@ class SpringBootDataJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		System.out.println("I am inside Test Methos>>>>>>>>>>>>>>>>>>>>");
+		
 	}
 
 }
